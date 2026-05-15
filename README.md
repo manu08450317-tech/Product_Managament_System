@@ -6,5 +6,7 @@ Add the Product : https://github.com/manu08450317-tech/Product_Managament_System
 
 Update the Product : https://github.com/manu08450317-tech/Product_Managament_System/blob/main/productmanagement3.png
 
-Delete the Product : 
+Delete the Product : https://github.com/manu08450317-tech/Product_Managament_System/blob/main/productmanagement4.png
+
+View the Product List : 
  
