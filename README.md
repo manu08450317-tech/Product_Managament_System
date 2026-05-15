@@ -10,5 +10,5 @@ Delete the Product : https://github.com/manu08450317-tech/Product_Managament_Sys
 
 View the Product List : https://github.com/manu08450317-tech/Product_Managament_System/blob/main/productmanagemant5.png
 
-Report : 
+Report : https://github.com/manu08450317-tech/Product_Managament_System/blob/main/productmanagemant6.png
  
